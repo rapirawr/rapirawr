@@ -82,7 +82,7 @@
 
 ###
 
-<img align="right" height="1500" src="https://media1.tenor.com/m/0lEo1YrZcgMAAAAd/kabur-meme.gif"  />
+<!-- <img align="right" height="1500" src="https://media1.tenor.com/m/0lEo1YrZcgMAAAAd/kabur-meme.gif"  /> -->
 
 ###
 
