@@ -1,5 +1,4 @@
-<h2 align="center">Hiii my name is Rafi and im a young developer from Indonesian</h2>
-
+![rapirawr's GitHub Banner](https://raw.githubusercontent.com/rapirawr/rapirawr/main/banner.png)
 ###
 
 <div align="center">
